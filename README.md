@@ -10,6 +10,7 @@ Snakeware is a snake game which has additional features
 ### Installing
 Download the HTML file and open.
 Alternative Download: [Repository of Cezeri](http://repository.cezeri.cf)
+Or you can play at [Snakeware](http://cezeri.tk)
 
 ## Built With
 
