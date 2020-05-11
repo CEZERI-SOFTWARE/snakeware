@@ -1,5 +1,5 @@
 # Snakeware
-![alt text](http://http://repository.cezeri.cf/snakeware.jpeg)
+![Alt text](http://repository.cezeri.cf/snakeware.jpeg?raw=true "Title")
 
 A JavaScript snake game.
 
