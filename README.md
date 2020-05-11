@@ -8,7 +8,7 @@ Snakeware is a snake game which has additional features
 
 ### Installing
 Download the HTML file and open.
-Alternative Download: [Repository of Cezeri](https://repository.cezeri.cf)
+Alternative Download: [Repository of Cezeri](http://repository.cezeri.cf)
 
 ## Built With
 
