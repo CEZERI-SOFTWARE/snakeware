@@ -9,8 +9,6 @@ Snakeware is a snake game which has additional features
 
 ### Installing
 Download the HTML file and open.
-Alternative Download: [Repository of Cezeri](http://repository.cezeri.cf)
-Or you can play at [Snakeware](http://cezeri.tk)
 
 ## Built With
 
@@ -21,7 +19,7 @@ Or you can play at [Snakeware](http://cezeri.tk)
 
 * **MTBBK** - *Main Developer* - [MTBBK](https://github.com/MTBBK)
 
-* **Zendevloop** - *Helper* - [zendevloop](https://github.com/zendevloop)
+* **rahmanlar** - *Helper* - [rahmanlar](https://github.com/rahmanlar)
 
 ## License
 
